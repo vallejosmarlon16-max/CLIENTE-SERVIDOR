@@ -1,0 +1,23 @@
+# Dependencias de Node
+frontend/node_modules/
+frontend/dist/
+frontend/.svelte-kit/
+frontend/.next/
+
+# Compilados de Go
+backend/main
+backend/backend.exe
+
+# Docker
+.docker_volumes/
+
+# Archivos del Sistema / IDEs
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.DS_Store
+Thumbs.db
